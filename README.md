@@ -14,8 +14,8 @@
 We were working on a similar project where we can re create old 8 bit games and from there we got an idea to do it in HTML and Javascript.  At the same time we were having a college exhibition within our different departments. This project helped us going through the same.
 
 ## Screenshots
-![Example screenshot](./img/Home_Snapshot.png)
-![Example screenshot](./img/TicTacToe_Snapshot.png)
+![Home_Snapshot](./img/Home_Snapshot.png)
+![TicTacToe_Snapshot](./img/TicTacToe_Snapshot.png)
 
 ## Technologies
 * HTML5
