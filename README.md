@@ -7,6 +7,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
+* [To-do list](#To-do-list)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
@@ -32,7 +33,7 @@ change yesabhishek\Desktop\Braniac\.. to User\Desktop\Braniac (User will be acco
 * The whole UI is kept minimal and easy to understand. 
 * No ads or pop up are added as of now. 
 
-To-do list:
+## To-do list
 * For future development, one can add new games to our project once we validate it. 
 * We are looking for an in built chat service and multiplayer games where users can join from around the globe and play games and at the same time can chat with the other user.  
 
